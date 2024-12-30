@@ -1,5 +1,6 @@
 /*Developed a sentiment analysis model to classify movie reviews as positive or negative. Used a IMDb Movie Reviews dataset for training and
-testing.*/
+testing.
+*/
 
 {
   "nbformat": 4,
